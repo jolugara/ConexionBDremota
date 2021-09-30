@@ -51,6 +51,5 @@ public class ConexionDefault {
         } catch (SQLException ex) {
             Logger.getLogger(ConexionDefault.class.getName()).log(Level.SEVERE, null, ex);
         }
-    }
-    
+    }    
 }
